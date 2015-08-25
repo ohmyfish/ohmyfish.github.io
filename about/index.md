@@ -5,7 +5,7 @@ avatar: yes
 comments: yes
 ---
 
-​    {% if page.avatar %} <p><img width="100px" height="100px" src="http://i.imgur.com/8Wz0Vqk.jpg" title="{{site.author}}" align="right"/></p> {% endif %}
+​    {% if page.avatar %} <p><img width="100px" height="100px" src="http://photo.weibo.com/1822220645/photos/detail/photo_id/3564747685790576/album_id/41380513" title="{{site.author}}" align="right"/></p> {% endif %}
 
 
 
