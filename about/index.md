@@ -4,7 +4,7 @@ title: About
 comments: yes
 ---
 
-
+​    {% if page.avatar %} <p><img width="100px" height="100px" src="http://i.imgur.com/8Wz0Vqk.jpg" title="{{site.author}}" align="right"/></p> {% endif %}
 
 
 
