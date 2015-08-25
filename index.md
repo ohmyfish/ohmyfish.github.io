@@ -1,6 +1,5 @@
 ---
 layout: home
-avatar: yes
 title: Home
 ---
 
