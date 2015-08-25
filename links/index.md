@@ -4,12 +4,11 @@ layout: page
 comments: yes
 ---
 
-## IELTS
+## 个人
 
-- [微博](http://weibo.com/740011611)
-- [豆瓣](http://www.douban.com/people/109885371/)
-- [知乎](http://www.zhihu.com/people/yf-chen-66)
-- [饭否](http://fanfou.com/luoqingchuan)
-- [哼唧兽](https://github.com/sxw2k)
-- [斯科特·杨](http://www.scotthyoung.com/blog/articles/)
-- [每日禅](http://www.thedailyzen.org)
+- [ chenyf](http://chenyf.gitcafe.io/) 翻译了一些关于 Perl 6 的文章
+- [ohmyfish](https://github.com/ohmyfish) 本站的 Github 地址
+
+## 软件
+
+- [pandoc](http://pandoc.org) 强大的文档转换工具, 文档格式转换中的瑞士军刀。
