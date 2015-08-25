@@ -6,8 +6,8 @@ comments: yes
 
 ## 个人
 
-- [ chenyf](http://chenyf.gitcafe.io/) 翻译了一些关于 Perl 6 的文章
-- [ohmyfish](https://github.com/ohmyfish) 是本站的 Github 地址  
+- [ 落川](http://chenyf.gitcafe.io/) 翻译了一些关于 Perl 6 的文章
+- [我的鱼](https://github.com/ohmyfish) 是本站的 Github 地址  
 
 ## 软件
 
