@@ -4,4 +4,4 @@ title: Guestbook
 comments: yes
 ---
 
-You can leave me a message here.
+你可以在这儿吐槽.
