@@ -3,4 +3,4 @@ permalink: /:year/:month/:title/
 url:
 baseurl:
 author: 落·川
-highlighter: pygments
+highlighter: rouge
