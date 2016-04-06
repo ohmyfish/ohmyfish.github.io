@@ -4,6 +4,10 @@ title: Guestbook
 comments: yes
 ---
 
-你可以在这儿吐槽. 放首歌给你听。
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="http://music.163.com/outchain/player?type=2&id=29535690&auto=1&height=32"></iframe>
+<html>
+你可以在这儿留言， 放首歌给你听。
+<audio autoplay="autoplay" controls="controls"loop="loop" preload="auto"
+            src="http://ys-f.ys168.com/7.0/295764444/q64355M25773Mqs8TJRIkN/太早.mp3">
+      你的浏览器不支持audio标签
+</audio>
+</html>
