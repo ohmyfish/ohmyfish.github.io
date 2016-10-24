@@ -4,4 +4,4 @@ title: Guestbook
 comments: yes
 ---
 
-留言簿。
+一个留言簿。
