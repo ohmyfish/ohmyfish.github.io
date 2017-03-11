@@ -6,7 +6,7 @@ comments: yes
 
 # 网站
 
-- [手·心](http://sxw2k.github.io/) 是我的技术站点, 关于 [Swift](http://wiki.jikexueyuan.com/project/swift/) 和 [Perl 6](http://perl6.org)
+- [Perl 6 青春小站](http://ohmycloud.github.io/) 是我的技术站点, 大部分关于 [Perl 6](http://perl6.org)
 
 # 工具
 
