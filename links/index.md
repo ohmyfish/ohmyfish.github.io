@@ -6,7 +6,8 @@ comments: yes
 
 # 网站
 
-- [Perl 6 青春小站](http://ohmycloud.github.io/) 是我的技术站点, 大部分关于 [Perl 6](http://perl6.org)
+- [Young For Perl 6](https://ohmysummer.github.io/) 我的 [Perl 6](http://perl6.org) 技术博客, Hugo 版。
+- [Perl 6 青春小站](http://ohmycloud.github.io/) Hexo 版。
 
 # 工具
 
