@@ -15,3 +15,5 @@ comments: yes
 - [每一个明天, 默写旧时光](http://music.163.com/#/song?id=28160871)
 - [不如热爱生活, 自己解围](http://music.163.com/#/song?id=398457)
 - [Perl 6 青春小站](https://ohmycloud.github.io)
+- [ohmyshunny](https://ohmyshunny.github.io)
+- [Young For Perl 6](https://ohmysummer.github.io)
