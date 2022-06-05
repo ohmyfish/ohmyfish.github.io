@@ -17,6 +17,6 @@ comments: yes
 - [部蓝格](https://ohmycloud.github.io)
 - [楽土](https://ohmyshunny.github.io)
 - [Raku Programming](https://ohmysummer.github.io)
-- [Lovely Raku](https://lovely-perl6.github.io)
+- [Lovely Raku](https://rakulang.github.io)
 - [Learn Raku By Example](https://ohmycloudy.github.io)
 - [Raku Books](https://ohmyraku.github.io)
