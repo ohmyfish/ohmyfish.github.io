@@ -2,5 +2,5 @@ markdown: kramdown
 permalink: /:year/:month/:title/
 url: https://ohmyfish.github.io
 baseurl:
-author: 落·川
+author: 焉知非鱼
 highlighter: rouge
