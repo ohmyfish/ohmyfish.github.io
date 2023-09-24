@@ -1,8 +1,8 @@
 #| 使用 Raku 自动创建 Jekyll 文章模版
-sub MAIN(:$f, :$day) {
-    my $title = $f.subst(/\s+/, '-', :g);
+sub MAIN(:$title, :$day) {
+    my $f = $title.subst(/\s+/, '-', :g);
     my $d = $day ?? $day !! Date.today;
-    my $file = sprintf("%s-%s.md", $d, $title);
+    my $file = sprintf("%s-%s.md", $d, $f);
     chdir "/Users/ohmycloud/blogs/ohmyfish" or die;
     #shell("git fetch origin master");
     chdir "/Users/ohmycloud/blogs/ohmyfish/_posts" or die;
