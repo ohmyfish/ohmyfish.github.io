@@ -7,7 +7,7 @@ comments: yes
 
 # 关于我
 
-{% if page.avatar %} <p><img width="100px" height="100px" src="https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0f/3a/th_267462.jpg@596w_1l.jpg" title="{{site.author}}" align="right"/></p> {% endif %}
+{% if page.avatar %} <p><img width="200px" height="200px" src="https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0f/3a/th_267462.jpg@596w_1l.jpg" title="{{site.author}}" align="right"/></p> {% endif %}
 
 
 
