@@ -16,5 +16,5 @@ sub MAIN(:$title, :$day) {
     tags: [旧时光]
     ---
     EOF
-    shell("nano $file");
+    shell("zed $file");
 }
